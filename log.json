@@ -1,0 +1,27 @@
+[{"type":"inf","timestamp":"2024-01-27 22:52:46","content":"Program started"}
+
+,
+{"type":"inf","timestamp":"2024-01-27 22:53:01","content":"Program finished"}
+
+,
+{"type":"inf","timestamp":"2024-01-27 22:53:17","content":"Program started"}
+
+,
+{"type":"INF","timestamp":"2024-01-27 22:53:27","content":"aaa"}
+
+,
+{"type":"WRN","timestamp":"2024-01-27 22:53:35","content":"bbb"}
+
+,
+{"type":"inf","timestamp":"2024-01-27 22:53:37","content":"Program finished"}
+
+,
+{"type":"inf","timestamp":"2024-01-27 23:01:51","content":"Program started"}
+
+,
+{"type":"INF","timestamp":"2024-01-27 23:01:55","content":"aaa"}
+
+,
+{"type":"inf","timestamp":"2024-01-27 23:01:58","content":"Program finished"}
+
+]

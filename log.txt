@@ -1,0 +1,9 @@
+[2024-01-27 22:52:46] [inf] - Program started
+[2024-01-27 22:53:01] [inf] - Program finished
+[2024-01-27 22:53:16] [inf] - Program started
+[2024-01-27 22:53:27] [INF] - aaa
+[2024-01-27 22:53:35] [WRN] - bbb
+[2024-01-27 22:53:37] [inf] - Program finished
+[2024-01-27 23:01:51] [inf] - Program started
+[2024-01-27 23:01:55] [INF] - aaa
+[2024-01-27 23:01:58] [inf] - Program finished

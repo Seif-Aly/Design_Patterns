@@ -1,10 +1,10 @@
-package Singleton;
+package Singleton
 fun main() {
     val logger = LogManager.getLogger()
 
     do {
         println("Enter log type (inf, wrn, err):")
-        val type = readLine()?.toUpperCase() ?: ""
+        val type = readLine()?.uppercase() ?: ""
         println("Enter log content:")
         val content = readLine() ?: ""
 

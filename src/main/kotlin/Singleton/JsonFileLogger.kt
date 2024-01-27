@@ -16,7 +16,7 @@ class JsonFileLogger : Logger {
 
     @Synchronized
     override fun log(type: String, content: String) {
-        val messageType = MessageType.values().find { it.name == type.toUpperCase() }
+        val messageType = MessageType.entries.find { it.name == type.uppercase() }
         if (messageType != null) {
             val timestamp = dateFormat.format(Date())
             val logMessage = LogMessage(type, timestamp, content)
