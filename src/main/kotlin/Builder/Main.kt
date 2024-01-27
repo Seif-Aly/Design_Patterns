@@ -4,6 +4,7 @@ import kotlinx.serialization.json.Json
 import java.io.File
 
 fun main() {
+
     do {
         val reportBuilder = ConcreteReportBuilder()
         val reportDirector = ReportDirector(reportBuilder)
